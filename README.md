@@ -1,10 +1,10 @@
-# 🚗 Car Price Preprocessing and Modeling
+#  Car Price Preprocessing and Modeling
 
 Repositori ini memuat implementasi *end-to-end machine learning pipeline* untuk memprediksi harga mobil bekas (*used car price prediction*). Proyek ini berfokus pada tahapan komprehensif penyiapan data (*data cleaning*, penanganan pencilan, standardisasi, dan *encoding*), analisis eksploratif (EDA & ExDA), perbandingan performa algoritma regresi (LARS, Linear Regression, dan Gradient Boosting Regressor), hingga serialisasi model siap pakai (*model persistence*).
 
 ---
 
-## 📌 Ringkasan Proyek
+##  Ringkasan Proyek
 
 * **Tipe Masalah:** Regresi Nilai Kontinu (*Tabular Data*)
 * **Dataset:** `Car Price Prediction` (~2.500 baris total)
@@ -18,7 +18,7 @@ Repositori ini memuat implementasi *end-to-end machine learning pipeline* untuk 
 
 ---
 
-## 🛠️ Pustaka & Lingkungan Komputasi
+##  Pustaka & Lingkungan Komputasi
 
 * **Bahasa:** Python 3.x
 * **Lingkungan Kerja:** Jupyter Notebook
@@ -29,7 +29,7 @@ Repositori ini memuat implementasi *end-to-end machine learning pipeline* untuk 
 
 ---
 
-## 📂 Struktur Repositori
+##  Struktur Repositori
 
 ```text
 car-price-preprocessing-and-modeling/
